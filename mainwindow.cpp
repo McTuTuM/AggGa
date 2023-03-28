@@ -176,6 +176,7 @@ void MainWindow::checkZone(int target, int grid)
     }
 }
 
+
 void MainWindow::drowZero(int target)
 {
     int x, y, w, h;
